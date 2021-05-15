@@ -1,59 +1,33 @@
 # garbage_detection
-This project detects shoe and papercup using your webcab. The script was written and tested in google colab.  
+This project detects shoe and papercup using your webcab. The script was written and tested in google colab. The base model of project was the coco model and we applied extra trainings for shoe and papercup classes. One hundered images where used to for each class.
 
 
 Table of Contents
 -----------------
 
-  * [Requirements](#requirements)
   * [Usage](#usage)
-  * [Contributing](#contributing)
-  * [Support and Migration](#support-and-migration)
   * [License](#license)
-
-Requirements
-------------
-
-The script requires the following to run:
-
-  * [python][python] 3.7+
-  * Mask RCNN
-
-
-[python]: https://www.python.org/downloads/
+  * [Useful Sources](#usefulsources)
 
 Usage
 -----
 
-First install python on your system and download the dataset.
-Then run the script on command prompt.
+Inorder to test this script in google clab, you should:
+1. first lower the tensorflow version to 1.x. You may need to lower the keras version, The one used in this project was 2.1.5. 
+2. clone the MASK_RCNN repository and install it.
+3. then run thnnddddddddddddddddddddd.
+you can also follow this tutorial [link](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/)for more information.
 
-example:
-```sh
-C:\>python pair_generator.py --index C:\Users\Niyousha\dataset\index --others C:\Users\Niyousha\dataset\others
---output C:\Users\Niyousha
-
-```
-Note : There is a space between each directory above.
-
-The Script has the following inputs.
-
-`index` is the path of index folder, where the main pictures exist.
-
-`others` is the path of others folder, where the copies of index pictures exist.
-
-`output` is the path of output, where the two folders of "same" & "different" are created.
-
-
-Contributing
+Useful Sources
 -----
 
-Not yet
+[Splash of Color: Instance Segmentation with Mask R-CNN and TensorFlow](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
 
-Support and Migration
------
+[colab-webcam](https://github.com/theAIGuysCode/colab-webcam)
 
-Not yet
+[Mask R-CNN for Surgery Robot](https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation)
+
+
 
 License
 -----
