@@ -6,8 +6,8 @@ Table of Contents
 -----------------
 
   * [Usage](#usage)
-  * [License](#license)
   * [Useful Sources](#usefulsources)
+  * [License](#license)
 
 Usage
 -----
@@ -26,8 +26,6 @@ Useful Sources
 [colab-webcam](https://github.com/theAIGuysCode/colab-webcam)
 
 [Mask R-CNN for Surgery Robot](https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation)
-
-
 
 License
 -----
