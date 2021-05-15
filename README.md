@@ -17,7 +17,7 @@ Inorder to test this script in google clab, you should:
 2. clone the MASK_RCNN repository and install it.
 3. then run thnnddddddddddddddddddddd.
 
-you can also follow this tutorial [link](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/)for more information.
+you can also follow this tutorial [link](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/) for more information.
 
 Useful Sources
 -----
