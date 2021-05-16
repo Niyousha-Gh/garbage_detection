@@ -2,13 +2,9 @@
 This project detects shoes and papercups using your webcab. The script was written and tested in google colab. The base model of project was the coco model and we applied extra trainings for shoe and papercup classes. 100 images've been used to train each class.
 
 
-Table of Contents
------------------
 
-  * [Useful Sources](#usefulsources)
 
-Useful Sources
------
+# Useful Sources
 
 [How to Train an Object Detection Model with Keras](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/)
 
