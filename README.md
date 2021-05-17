@@ -1,11 +1,6 @@
 # garbage_detection
 This project detects shoes and papercups using your webcab. The script was written and tested in google colab. The base model of project was the coco model and we applied extra trainings for shoe and papercup classes. 100 images've been used to train each class.
 
-# ditected examples
-
-![Alt Text](https://github.com/Niyousha-Gh/garbage_detection/blob/main/papercup%20gif%20example.gif)
-
-![Alt Text](https://github.com/Niyousha-Gh/garbage_detection/blob/main/shoe%20gif%20example.gif)
 
 # useful sources
 
@@ -17,3 +12,12 @@ This project detects shoes and papercups using your webcab. The script was writt
 
 [Mask R-CNN for Surgery Robot](https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation)
   
+
+# ditected examples
+
+![Alt Text](https://github.com/Niyousha-Gh/garbage_detection/blob/main/papercup%20gif%20example.gif)
+
+
+![Alt Text](https://github.com/Niyousha-Gh/garbage_detection/blob/main/shoe%20gif%20example.gif)
+
+
