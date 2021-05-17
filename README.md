@@ -9,7 +9,6 @@ This project detects shoes and papercups using your webcab. The script was writt
 <br/>
 
 ![Alt Text](https://github.com/Niyousha-Gh/garbage_detection/blob/main/shoe%20gif%20example.gif)
-
 <br/>
 
 # useful sources
