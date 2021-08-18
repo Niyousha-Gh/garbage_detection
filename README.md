@@ -11,6 +11,9 @@ This project detects shoes and papercups using your webcab. The script was writt
 ![Alt Text](https://github.com/Niyousha-Gh/garbage_detection/blob/main/shoe%20gif%20example.gif)
 <br/>
 
+![Alt Text](https://github.com/Niyousha-Gh/garbage_detection/blob/main/shoe%20gif%20example.gif)
+<br/>
+
 # useful sources
 
 [How to Train an Object Detection Model with Keras](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/)
